@@ -2,7 +2,7 @@
 
 Kickstart your Git journey with this hands-on exercise tailored for absolute beginners.
 
-- Clone or fork this repo
+- Fork and Clone this repo
 
 - Create a feature branch for your work
 
@@ -24,7 +24,11 @@ Kickstart your Git journey with this hands-on exercise tailored for absolute beg
 
 ## 🚀 Quick Start
 
-1. **Clone the repo**
+1. **Fork this repository**
+
+- Fork to create your own copy under your account.
+
+2. **Clone the repo**
    ```bash
    git clone https://github.com/ssbarik/geecoding-git-starter.git
    cd geecoding-git-starter
