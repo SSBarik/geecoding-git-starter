@@ -1,1 +1,1 @@
-# geecoding-git
+# geecoding-git-starter
